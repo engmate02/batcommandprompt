@@ -1,3 +1,3 @@
-# batcommandprompt
+# schoolhacks
 
-Bypass the school's command prompt restrictions
+Bypass various school restrictions put on a device 
