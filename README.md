@@ -3,4 +3,4 @@
 Bypass various school restrictions put on a device 
 
 
-cmd.bat: Command Prompt for resticted computers
+cmd.bat: Command Prompt for restricted computers
